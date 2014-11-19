@@ -1,3 +1,5 @@
+# Forked by Derrick Reese on November 18th 2014.
+# Check out my notes that are added at the bottom.
 # teamnode
 This is a website for teams.  Framework is using html, css, js, and node.js.  The database is Sqlite3.
 
@@ -43,3 +45,5 @@ If you can program the code yourself and most importantly understand the code, a
 Frameworks are not "silver bullets". When you program against a Framework, you’re allowing someone else to take control of the big decisions about the code for you. Surely you can see that? These big decisions once made are very hard to retrace upon, if the framework is too encompassing then it will make all the major decisions for you. Using frameworks also obfuscate the actual programming away. Define your interpretation of a framework, there is more than one type of framework. Some frameworks are so integrated to the programming language then I would call these programming systems.  Depending on your context, and you would like to use a framework, take some time up front and find a framework that works for your team.  I too have made some decisions in this starter kit that you may want to use or change.
 
 Some thoughts.  My goal is to keep close to node.js.  Go ahead and contribute or fork - add code or packages that meet your needs.  Go ahead and add issues too.  Enjoy the Code!  Brian.
+
+Some additional Thoughts.  Hey Brian Thanks for allowing me to Fork your Repo.  I will be updating this and hopefully I will be able to deploy and offer a comparable product.
